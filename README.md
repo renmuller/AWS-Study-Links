@@ -1,6 +1,6 @@
 # 
 **AWS-Study-Links**
-Study links to help pass the AWS CCP exam (and even a few for the SAA too)!
+Study links to help pass the AWS Certified Cloud Practitioner (CLF C01) exam (and even a few for the Associate Levels too)!
 
 
 **Starter**
@@ -38,8 +38,6 @@ Extras
 
 
 **POST-CCP QUALIFICATION - NEXT LEVEL RESOURCES**
-
-AWS Associate Level Resources
 1.  https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c02/view/
 2.  https://cloudvikas.com/aws-certified-developer-associate-q-a
 3.  https://leap.jfrog.com/WN-2021-05-DevOps-101-Introduction-to-CICD-EMEA-LP.html?utm_source=facebook&utm_medium=cpm&utm_campaign=Boosted+Post+%7C+ALL+%7C+Webinar+%7C+DevOps+101%3A+Introduction+to+CI%2FCD+%7C+EMEA+%7C+20210518&utm_content=DevOps+101+on+demand+webinar+-+1080x1080&utm_term=Interest+%7C+DevOps+%7C+EMEA+Top+Countries&fbclid=PAAaYxcKBuIP3vr-Quz_-_aHLIXM-mPn5Xt4MLzk2iWE7bEPhIi3ZqxHeTyKE_aem_Ac4YwwY8y5ylnHzgmJbO7_UXocnt-mcJSAZUhKDMGOeqQ7lmuQWZLZxZAYVUtHOfoHfhm6ubqYmcCXBBKNqaIUwr1g0kWF1vktW9ZrmOhHiAfw
