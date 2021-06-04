@@ -34,7 +34,7 @@ Extras
 3.  https://acloudguru.com/blog/engineering/jump-start-your-cloud-career
 4.  topcv.co.uk
 5.  https://cloudresumechallenge.dev/
-
+6.  https://www.indeed.com/career-advice/pay-salary/how-to-negotiate-starting-salary
 
 
 **POST-CCP QUALIFICATION - NEXT LEVEL RESOURCES**
